@@ -62,12 +62,5 @@ body {
   
   #download-container {
     margin-top: 10px;
-    background-color: #ffb7b2;
-    color: #fff;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    transition: 0.3s;
+    display : block;
   }
-  
